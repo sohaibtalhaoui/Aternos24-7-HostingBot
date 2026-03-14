@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip":sohaibtalhaoui.aternos.me
-    "port":31013
+    "ip":"sohaibtalhaoui.aternos.me",
+    "port":31013,
     "version": "",
     "try-creative": false
   },
